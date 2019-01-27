@@ -17,6 +17,6 @@ def printer(name)
     puts badge
   end
   assign_rooms.each do |rooms|
-    puts y
+    puts rooms
 end
 end
